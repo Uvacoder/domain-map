@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".abbott",
+        "organisation": "Abbott Laboratories, Inc.",
+        "type": "generic"
+    },
+    {
+        "domain": ".abogado",
+        "organisation": "Top Level Domain Holdings Limited",
+        "type": "generic"
+    },
+    {
+        "domain": ".ac",
+        "organisation": "Network Information Center (AC Domain Registry) c/o Cable and Wireless (Ascension Island)",
+        "type": "country-code"
+    },
+    {
+        "domain": ".academy",
+        "organisation": "Half Oaks, LLC",
+        "type": "generic"
+    },
+    {
+        "domain": ".accountant",
+        "organisation": "dot Accountant Limited",
+        "type": "generic"
+    },
+    {
+        "domain": ".accountants",
+        "organisation": "Knob Town, LLC",
+        "type": "generic"
+    },
+    {
+        "domain": ".active",
+        "organisation": "The Active Network, Inc",
+        "type": "generic"
+    },
+    {
+        "domain": ".actor",
+        "organisation": "United TLD Holdco Ltd.",
+        "type": "generic"
+    },
+    {
+        "domain": ".ad",
+        "organisation": "Andorra Telecom",
+        "type": "country-code"
+    }
+]
