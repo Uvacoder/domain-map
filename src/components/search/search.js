@@ -3,7 +3,7 @@ import SearchInput, { createFilter } from 'react-search-input';
 // import emails from '../domains';
 
 import { Container } from './search.css';
-import emails from '../../domain-test.json';
+import emails from '../../domain-json.json';
 
 // import emails from './mails'
 
