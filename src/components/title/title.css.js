@@ -2,7 +2,10 @@ import styled from 'styled-components';
 import MEDIA from 'helpers/mediaTemplates';
 
 export const Text = styled.span`
-  display: block;
+  /* display: block; */
+  @media (min-width: 750px) {
+    max-width: 650px;
+  }
   font-weight: ${({ size }) => () => {
     switch (size) {
       case 'large':
